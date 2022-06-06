@@ -75,7 +75,3 @@ The dataset avialed the client can be downloaded from this [link](http://bit.ly/
  - [R Docummentation](https://www.rdocumentation.org/)
  - [Tutorialspoint](https://www.tutorialspoint.com/r/index.htm)
  - [ggplot2](https://ggplot2.tidyverse.org/)
-## Defining the Metric for Success
-This project will be successful if we will be able to answer the Research questions.
-## Defining the Metric for Success
-This project will be successful if we will be able to answer the Research questions.
